@@ -1,1 +1,1 @@
-# test-merge [VNEXT]
+# test-merge [VNEXT] version 2
